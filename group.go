@@ -3,8 +3,8 @@ package assets
 import (
 	"bytes"
 	"fmt"
-	"github.com/fragmenta/assets/internal/cssmin"
-	"github.com/fragmenta/assets/internal/jsmin"
+	"github.com/freska-cms/assets/internal/cssmin"
+	"github.com/freska-cms/assets/internal/jsmin"
 	"io/ioutil"
 	"os"
 	"path"
